@@ -37,6 +37,6 @@ aa
 fin
 
 
-This project was realized by Jrad Bayrem and Rouached Radhouan.
+This project was realized by Jrad Bayrem and Rouached Radhouene.
 
 Enjoy, Use and especially SHARE
